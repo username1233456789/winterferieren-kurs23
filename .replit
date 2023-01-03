@@ -1,1 +1,5 @@
 entrypoint="main.py"
+
+[auth]
+pageEnabled = true
+buttonEnabled = false
